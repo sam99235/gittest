@@ -1,0 +1,8 @@
+#ignore thses files
+*.log
+*.logs
+*.keys
+*.env
+
+#ignore all folders
+*/
